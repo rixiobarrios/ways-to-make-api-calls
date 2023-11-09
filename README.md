@@ -1,4 +1,4 @@
-## Ways of API Calls
+## Ways to Make API Calls
 
 **What is an API?**
 An Application Program Interface (API) acts as a source of communication between software programs. With the help of an API, a developer doesn't have to write the code from scratch. They can simply use an existing API that will save time and resources. Using an API also helps with software integration, which in turn improves the user experience. After developing an API, we make an API call to request resources from the server and perform other operations.
@@ -8,14 +8,14 @@ An API call is a procedure by which information is exchanged. The client sends a
 
 **List of API Calls**
 - NodeJS Rest API Example
-- XMLHttpRequest API Call Example
-- Fetch API Call Example
-- Axios API Call Example
+- XMLHttpRequest API Call Example (tested)
+- Fetch API Call Example (tested)
+- Axios API Call Example (tested)
 - jQuery API Call Example
 
 **Aplications installed**
 
-- NodeJS
+- NodeJS 17.5
 - Axios
 - jQuery
 
@@ -24,6 +24,4 @@ An API call is a procedure by which information is exchanged. The client sends a
 - node-xmlhttprequest
 - got
 
-
 Note: Also, Using local file ```movies.json``` for testing.
-# ways-to-make-api-calls
