@@ -7,21 +7,18 @@ An Application Program Interface (API) acts as a source of communication between
 An API call is a procedure by which information is exchanged. The client sends a request to an API. The API sends the request to the server and gets the response back to the client via that same API.
 
 **List of API Calls**
-- NodeJS Rest API Example
+- HTTP API Example (tested)
 - XMLHttpRequest API Call Example (tested)
 - Fetch API Call Example (tested)
 - Axios API Call Example (tested)
-- jQuery API Call Example
 
 **Aplications installed**
 
 - NodeJS 17.5
 - Axios
-- jQuery
 
 **Packages installed**
 - node-filefetch
 - node-xmlhttprequest
-- got
 
 Note: Also, Using local file ```movies.json``` for testing.
