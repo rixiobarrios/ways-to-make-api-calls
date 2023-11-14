@@ -4,7 +4,7 @@
 // Updated Node to 17.5 to use fetch
 // Installed node-fetch
 
-// Required node-fetch
+// Import node-fetch
 const fetch = require('node-fetch');
 
 fetch('https://rapidapi.com/guides/api/rest')

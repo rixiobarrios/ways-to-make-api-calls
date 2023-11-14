@@ -3,7 +3,7 @@
 
 // Install the axios package 'npm install axios'
 
-// Require axios
+// Import axios
 const axios = require('axios');
 
 axios

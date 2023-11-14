@@ -3,7 +3,7 @@
 
 // Install node-xmlhttprequest using npm install node-xmlhttprequest
 
-// Require node-xmlhttprequest
+// Import node-xmlhttprequest
 var XMLHttpRequest = require('node-xmlhttprequest').XMLHttpRequest;
 
 function reqListener() {

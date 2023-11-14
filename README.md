@@ -6,6 +6,12 @@ An Application Program Interface (API) acts as a source of communication between
 **What is an API call?**
 An API call is a procedure by which information is exchanged. The client sends a request to an API. The API sends the request to the server and gets the response back to the client via that same API.
 
+**REST API**
+A Representational State Transfer (REST) API is the most common type of API, and many people often confuse the term API with the REST API. REST APIs allow you to perform CRUD (create, read, update, and delete) operations between a client and a server. It connects your backend with your frontend so they can communicate with each other.
+
+**REST API provided by Rapid**
+```https://rapidapi.com/guides/api/rest```
+
 **List of API Calls**
 - HTTP API Example (tested)
 - XMLHttpRequest API Call Example (tested)
@@ -21,4 +27,6 @@ An API call is a procedure by which information is exchanged. The client sends a
 - node-filefetch
 - node-xmlhttprequest
 
-Note: Also, Using local file ```movies.json``` for testing.
+Note: Also, Using local file ```movies.json``` for testing with ```fileFetch.js```.
+
+

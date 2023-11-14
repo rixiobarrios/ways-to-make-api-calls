@@ -1,6 +1,7 @@
 // HTTP API Call Example
 // The Hypertext Transfer Protocol (HTTP) is designed to enable communications between clients and servers. HTTP works as a request-response protocol between a client and server. Example: A client (browser) sends an HTTP request to the server; then the server returns a response to the client.
 
+// Import http
 const https = require('https');
 
 https
@@ -23,6 +24,7 @@ https
             }
         });
     })
+    // Handle errors
     .on('error', (err) => {
         console.log('Error: ' + err.message);
     });
