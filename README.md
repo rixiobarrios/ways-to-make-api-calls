@@ -18,14 +18,20 @@ A Representational State Transfer (REST) API is the most common type of API, and
 - Fetch API Call Example (tested)
 - Axios API Call Example (tested)
 
+**Files**
+- ```http.js```  
+- ```xml.js```  
+- ```fetch.js```  
+- ```axios.js```  
+
 **Aplications installed**
 
 - NodeJS 17.5
-- Axios
 
 **Packages installed**
 - node-filefetch
 - node-xmlhttprequest
+- Axios
 
 Note: Also, Using local file ```movies.json``` for testing with ```fileFetch.js```.
 
